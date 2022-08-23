@@ -1,2 +1,2 @@
-Simple Dapp ,
-for connect Metamask , getBalance and transaction only Rinkby Ethers
+Simple app 
+for connecting Metamask , getting Balance and transaction only Rinkeby Ethers...
